@@ -7,7 +7,7 @@ public class Funcionario
     public string Nome { get; set; }
     public string CPF { get; set; }
     public string Matricula { get; set; }
-    public string DataAdmissao { get; set; }
+    public DateTime DataAdmissao { get; set; }
     public Guid EmpresaId { get; set; }
     #endregion
 

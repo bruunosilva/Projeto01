@@ -1,0 +1,12 @@
+/home/bruno/dev/Projeto01/4-InfraStructureLayer/4.3-Validations/Projeto01.Validations/bin/Debug/net7.0/Projeto01.Validations.deps.json
+/home/bruno/dev/Projeto01/4-InfraStructureLayer/4.3-Validations/Projeto01.Validations/bin/Debug/net7.0/Projeto01.Validations.dll
+/home/bruno/dev/Projeto01/4-InfraStructureLayer/4.3-Validations/Projeto01.Validations/bin/Debug/net7.0/Projeto01.Validations.pdb
+/home/bruno/dev/Projeto01/4-InfraStructureLayer/4.3-Validations/Projeto01.Validations/obj/Debug/net7.0/Projeto01.Validations.csproj.AssemblyReference.cache
+/home/bruno/dev/Projeto01/4-InfraStructureLayer/4.3-Validations/Projeto01.Validations/obj/Debug/net7.0/Projeto01.Validations.GeneratedMSBuildEditorConfig.editorconfig
+/home/bruno/dev/Projeto01/4-InfraStructureLayer/4.3-Validations/Projeto01.Validations/obj/Debug/net7.0/Projeto01.Validations.AssemblyInfoInputs.cache
+/home/bruno/dev/Projeto01/4-InfraStructureLayer/4.3-Validations/Projeto01.Validations/obj/Debug/net7.0/Projeto01.Validations.AssemblyInfo.cs
+/home/bruno/dev/Projeto01/4-InfraStructureLayer/4.3-Validations/Projeto01.Validations/obj/Debug/net7.0/Projeto01.Validations.csproj.CoreCompileInputs.cache
+/home/bruno/dev/Projeto01/4-InfraStructureLayer/4.3-Validations/Projeto01.Validations/obj/Debug/net7.0/Projeto01.Validations.dll
+/home/bruno/dev/Projeto01/4-InfraStructureLayer/4.3-Validations/Projeto01.Validations/obj/Debug/net7.0/refint/Projeto01.Validations.dll
+/home/bruno/dev/Projeto01/4-InfraStructureLayer/4.3-Validations/Projeto01.Validations/obj/Debug/net7.0/Projeto01.Validations.pdb
+/home/bruno/dev/Projeto01/4-InfraStructureLayer/4.3-Validations/Projeto01.Validations/obj/Debug/net7.0/ref/Projeto01.Validations.dll

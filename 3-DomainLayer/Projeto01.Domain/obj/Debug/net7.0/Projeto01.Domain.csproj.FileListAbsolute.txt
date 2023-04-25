@@ -1,0 +1,15 @@
+/home/bruno/dev/Projeto01/3-DomainLayer/Projeto01.Domain/bin/Debug/net7.0/Projeto01.Domain.deps.json
+/home/bruno/dev/Projeto01/3-DomainLayer/Projeto01.Domain/bin/Debug/net7.0/Projeto01.Domain.dll
+/home/bruno/dev/Projeto01/3-DomainLayer/Projeto01.Domain/bin/Debug/net7.0/Projeto01.Domain.pdb
+/home/bruno/dev/Projeto01/3-DomainLayer/Projeto01.Domain/bin/Debug/net7.0/Projeto01.Validations.dll
+/home/bruno/dev/Projeto01/3-DomainLayer/Projeto01.Domain/bin/Debug/net7.0/Projeto01.Validations.pdb
+/home/bruno/dev/Projeto01/3-DomainLayer/Projeto01.Domain/obj/Debug/net7.0/Projeto01.Domain.csproj.AssemblyReference.cache
+/home/bruno/dev/Projeto01/3-DomainLayer/Projeto01.Domain/obj/Debug/net7.0/Projeto01.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/bruno/dev/Projeto01/3-DomainLayer/Projeto01.Domain/obj/Debug/net7.0/Projeto01.Domain.AssemblyInfoInputs.cache
+/home/bruno/dev/Projeto01/3-DomainLayer/Projeto01.Domain/obj/Debug/net7.0/Projeto01.Domain.AssemblyInfo.cs
+/home/bruno/dev/Projeto01/3-DomainLayer/Projeto01.Domain/obj/Debug/net7.0/Projeto01.Domain.csproj.CoreCompileInputs.cache
+/home/bruno/dev/Projeto01/3-DomainLayer/Projeto01.Domain/obj/Debug/net7.0/Projeto01.Domain.csproj.CopyComplete
+/home/bruno/dev/Projeto01/3-DomainLayer/Projeto01.Domain/obj/Debug/net7.0/Projeto01.Domain.dll
+/home/bruno/dev/Projeto01/3-DomainLayer/Projeto01.Domain/obj/Debug/net7.0/refint/Projeto01.Domain.dll
+/home/bruno/dev/Projeto01/3-DomainLayer/Projeto01.Domain/obj/Debug/net7.0/Projeto01.Domain.pdb
+/home/bruno/dev/Projeto01/3-DomainLayer/Projeto01.Domain/obj/Debug/net7.0/ref/Projeto01.Domain.dll
